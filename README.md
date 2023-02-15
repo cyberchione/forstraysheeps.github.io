@@ -1,3 +1,5 @@
 # forstraysheeps.github.io
 website link! out now!!
-https://chione.github.io/forstraysheeps.github.io/
+https://chione1891.github.io/forstraysheeps.github.io/
+
+light mode coming soon! 
