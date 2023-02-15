@@ -2,4 +2,4 @@
 website link! out now!!
 https://chione1891.github.io/forstraysheeps.github.io/
 
-light mode coming soon! 
+light mode and dark mode button coming soon! 
