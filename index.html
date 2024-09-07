@@ -6,14 +6,26 @@
 <link rel="stylesheet" href="lightmode.css">
 
 <meta property="og:title" content="yonezu kenshi" />
-<meta property="og:url" content="http://cyberangels.neocities.org/" />
 <meta property="og:description" content="SOCIAL MEDIA" /> 
 <meta property="og:image" content="https://i.pinimg.com/736x/86/3b/c6/863bc6a2cb1303d90f9efbbbd16e3dbc.jpg" /> <!-- not banner image --> 
 <meta charset="UTF-8">
 <meta name="description" content="yonezu kenshi" />
-
 </head>
+
+<script>
+function toggleTheme() {
+	var theme = document.getElementsByTagName('link')[0];
+         if (theme.getAttribute('href') == 'https://cyberchione.github.io/forstraysheeps.github.io/lightmode.css') {
+	 	theme.setAttribute('href', 'https://cyberchione.github.io/forstraysheeps.github.io/darkmode.css'); 
+	} 
+	else { 
+		theme.setAttribute('href', 'https://cyberchione.github.io/forstraysheeps.github.io/lightmode.css');
+	} 
+}
+</script>
+
 <body>
+<button onclick="toggleTheme()"> ☾\☀︎ </button> 
 <div class="wrap">
   <img scr ="https://i.pinimg.com/736x/86/3b/c6/863bc6a2cb1303d90f9efbbbd16e3dbc.jpg">
 	<div id="header"><div class="title">米津玄師<b>: </b>media</div></div>

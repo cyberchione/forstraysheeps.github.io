@@ -100,3 +100,11 @@ width:700px;
 margin-left:-350px;
 margin-top:1px;
 }
+
+button{ 
+    background-color: transparent;
+	  border: transparent;
+	  font-size: 2em;
+	  color: black;
+	  text-align: center;
+}
